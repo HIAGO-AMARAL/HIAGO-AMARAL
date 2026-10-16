@@ -12,7 +12,7 @@ Uso a IA como ferramenta de engenharia no dia a dia, não só como chat:
 - **Segundo cérebro no Obsidian:** contexto do projeto em Markdown, com `CLAUDE.md` de mapa, para a IA trabalhar com as regras e a memória de cada projeto
 - **Diagnóstico com IA:** análise de logs e crash reports para achar a causa raiz de bugs
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
 ### Atenas Documentos
 Sistema web em produção para a **Atenas Projetos Ambientais**, consultoria que faz documentos técnicos para hospitais, clínicas e farmácias. Transforma horas de trabalho repetitivo em poucos cliques.
@@ -25,6 +25,17 @@ Sistema web em produção para a **Atenas Projetos Ambientais**, consultoria que
 
 **Tecnologias:** PHP 8 · SQLite / MySQL · HTML · CSS · JavaScript · Open XML
 🌐 [atenasprojetosambientais.com.br](https://atenasprojetosambientais.com.br) · *código privado (projeto de cliente)*
+
+### J.A.R.V.I.S: assistente pessoal com IA
+App pessoal instalável (PWA) que organiza o dia como um RPG: missões da semana valem XP, hábitos dão combo e sequência, e as moedas compram temas e mascotes em pixel art.
+
+- **IA (Gemini):** chat que conhece as missões, o treino e as leituras; estima calorias e macros do que eu como; comenta os meus resumos de livros
+- **Meu Jardim:** cada semana uma árvore em pixel art cresce conforme os dias bem cumpridos
+- **Spotify:** música tocando, controles e estatísticas (OAuth com PKCE)
+- API JSON em PHP, SQLite, JavaScript puro, CSRF, sessão segura e service worker
+
+**Tecnologias:** PHP 8 · SQLite · JavaScript · Gemini API · Spotify Web API · PWA
+💻 [github.com/HIAGO-AMARAL/jarvis](https://github.com/HIAGO-AMARAL/jarvis)
 
 ## 🧩 Outros projetos
 
