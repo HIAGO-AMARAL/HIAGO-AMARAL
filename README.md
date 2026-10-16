@@ -29,8 +29,7 @@ Sistema web em produção para a **Atenas Projetos Ambientais**, consultoria que
 ## 🧩 Outros projetos
 
 - **Mundo Café** *(projeto integrador do curso, em dupla)*: sistema de gestão de manutenção de máquinas cafeeiras. Liderei o projeto e fiquei com o back-end e o banco de dados (MySQL).
-- **Servidor caseiro de Minecraft:** Ubuntu Server administrado por SSH, com mods, otimização de desempenho e um bot de Discord para ligar, desligar e ver o status do servidor.
-- **Mods em Java:** projeto multimódulo com Gradle para Minecraft (Forge), com sistemas de combate e itens próprios.
+- **Servidor Linux próprio:** Ubuntu Server montado e administrado por SSH, com serviços no ar 24h, otimização de desempenho e um bot de Discord que liga, desliga e mostra o status e o consumo de recursos.
 
 ## 🔬 Pesquisa e eventos
 
